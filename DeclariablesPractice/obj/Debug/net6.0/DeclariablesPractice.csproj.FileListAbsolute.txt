@@ -1,0 +1,15 @@
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\bin\Debug\net6.0\DeclariablesPractice.exe
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\bin\Debug\net6.0\DeclariablesPractice.deps.json
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\bin\Debug\net6.0\DeclariablesPractice.runtimeconfig.json
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\bin\Debug\net6.0\DeclariablesPractice.dll
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\bin\Debug\net6.0\DeclariablesPractice.pdb
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.csproj.AssemblyReference.cache
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.AssemblyInfoInputs.cache
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.AssemblyInfo.cs
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.dll
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\refint\DeclariablesPractice.dll
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.pdb
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\DeclariablesPractice.genruntimeconfig.cache
+C:\Users\Chris\repos\vsPrograms\Declariables\DeclariablesPractice\obj\Debug\net6.0\ref\DeclariablesPractice.dll
